@@ -16,6 +16,7 @@ namespace ZoomHouse2
         Graphics g;
         public Form1()
         {
+            //There is my changing
             InitializeComponent();
             g = CreateGraphics();
         }
