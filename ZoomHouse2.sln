@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZoomHouse2", "ZoomHouse2\ZoomHouse2.csproj", "{ED1771BA-1DEE-4375-8821-8919C063D67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1771BA-1DEE-4375-8821-8919C063D67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1771BA-1DEE-4375-8821-8919C063D67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1771BA-1DEE-4375-8821-8919C063D67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1771BA-1DEE-4375-8821-8919C063D67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E52601-2233-4F5E-85FD-B0DEB267589F}
+	EndGlobalSection
+EndGlobal
