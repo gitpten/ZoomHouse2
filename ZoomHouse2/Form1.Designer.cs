@@ -53,7 +53,7 @@
             // 
             // tbGap
             // 
-            this.tbGap.Location = new System.Drawing.Point(1026, 107);
+            this.tbGap.Location = new System.Drawing.Point(981, 120);
             this.tbGap.Maximum = 400;
             this.tbGap.Name = "tbGap";
             this.tbGap.Size = new System.Drawing.Size(104, 56);
@@ -62,7 +62,7 @@
             // 
             // tbSize
             // 
-            this.tbSize.Location = new System.Drawing.Point(1026, 157);
+            this.tbSize.Location = new System.Drawing.Point(981, 170);
             this.tbSize.Maximum = 600;
             this.tbSize.Minimum = 50;
             this.tbSize.Name = "tbSize";
@@ -73,7 +73,7 @@
             // 
             // tbY0
             // 
-            this.tbY0.Location = new System.Drawing.Point(1033, 377);
+            this.tbY0.Location = new System.Drawing.Point(988, 390);
             this.tbY0.Maximum = 400;
             this.tbY0.Name = "tbY0";
             this.tbY0.Size = new System.Drawing.Size(104, 56);
@@ -83,7 +83,7 @@
             // 
             // tbX0
             // 
-            this.tbX0.Location = new System.Drawing.Point(1033, 315);
+            this.tbX0.Location = new System.Drawing.Point(988, 328);
             this.tbX0.Maximum = 400;
             this.tbX0.Name = "tbX0";
             this.tbX0.Size = new System.Drawing.Size(104, 56);
@@ -92,7 +92,7 @@
             // 
             // tbD
             // 
-            this.tbD.Location = new System.Drawing.Point(1033, 439);
+            this.tbD.Location = new System.Drawing.Point(988, 452);
             this.tbD.Maximum = 100;
             this.tbD.Minimum = 1;
             this.tbD.Name = "tbD";
